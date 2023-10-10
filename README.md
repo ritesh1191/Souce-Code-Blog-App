@@ -35,15 +35,8 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Start Application
 
 ```bash
-  npm run start
-```
-Start the Client
-
-```bash
-  //open now terminal
-  cd client
-  npm start
+  npm run dev
 ```
