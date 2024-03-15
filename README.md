@@ -45,3 +45,17 @@ Start Application
 ```bash
   npm run dev
 ```
+
+# Photos
+
+- Login Page
+
+![image](https://github.com/ritesh1191/Souce-Code-Blog-App/assets/101041207/d4709f32-1b85-4f6f-b980-0800b038fde3)
+
+- Register Page
+
+![image](https://github.com/ritesh1191/Souce-Code-Blog-App/assets/101041207/e38fc5e1-417e-4af3-8d62-42646af11590)
+
+- Blogs Page
+  
+![image](https://github.com/ritesh1191/Souce-Code-Blog-App/assets/101041207/8135612b-0edf-4983-90b3-c612f02085d9)
